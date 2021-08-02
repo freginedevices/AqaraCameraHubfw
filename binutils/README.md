@@ -58,7 +58,7 @@ passwd -d root
 echo WITH_TELNET=y >> /etc/.config
 ```
 
-Then try to use putty to login to see it works or not. If it worked, you can remove hostname
+Reboot the device without sdcard then try to use putty to login to see it works or not. If it worked, you can remove hostname
 
 7. How to enable telnet in hard way (need to solder UART)
 
